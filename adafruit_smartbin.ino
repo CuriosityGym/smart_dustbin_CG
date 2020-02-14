@@ -30,14 +30,14 @@ long duration;
 float distance;
 //int doorPin = A0;
 // WiFi parameters
-#define WLAN_SSID       "DT_LAB"
-#define WLAN_PASS       "fthu@050318"
+#define WLAN_SSID       "XXXXXXXXXXXXXXXXX" //Enter your wifi SSID
+#define WLAN_PASS       "XXXXXXXXXXXXXXXXX" //Enter you wifi password
 
 // Adafruit IO
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883
-#define AIO_USERNAME    "CG_Workshops"
-#define AIO_KEY         "aio_puza175BsuJ9JJJQJdf1k92J5DjB"  // Obtained from account info on io.adafruit.com
+#define AIO_USERNAME    "XXXXXXXX"
+#define AIO_KEY         "XXXXXXXXXXXXXXXXXXXXXXXX"  // Obtained from account info on io.adafruit.com
 
 WiFiClient client;
  
